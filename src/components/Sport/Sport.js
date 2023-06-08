@@ -1,7 +1,8 @@
 import React from 'react';
 import './Sport.css'
 
-const Sport = ({ sport }) => {
+const Sport = ({sport, handleAgeCalculate}) => {
+    // console.log(props)
     const { name, time, img, description, age } = sport;
     return (
         <div className='sport'>
@@ -10,7 +11,7 @@ const Sport = ({ sport }) => {
             <p className='text'>For Age: {age}</p>
             <p className='text'>Time Required: {time}m</p>
             <p><small className='description'>{description}</small></p>
-            <button className='btn'>Add to cart</button>
+            <button onClick={() =>handleAgeCalculate(sport)} className='btn'>Add to cart</button>
         </div>
     );
 };

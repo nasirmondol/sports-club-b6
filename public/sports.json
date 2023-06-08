@@ -1,6 +1,6 @@
 [{"id":0,"age":13,"name":"Olympic Runner","img":"https://trackstore.qodeinteractive.com/wp-content/uploads/2017/10/runing-simple-img-2.jpg","description":"The fastest Olympic sprint was Usain Bolt’s 100 meters at the London Games, averaging more than 23 miles per hour for 9.63 seconds.","time":30},
 
-{"id":1,"age":12,"name":"Training Cricket","img":"https://st2.depositphotos.com/35612768/44571/i/450/depositphotos_445711504-stock-photo-mumbai-india-december-2020-unidentified.jpg","description":"Cricket is a bat-and-ball game played between two teams of eleven players on a field at the centre of which is a 22-yard (20-metre)"},
+{"id":1,"age":12,"name":"Training Cricket","img":"https://st2.depositphotos.com/35612768/44571/i/450/depositphotos_445711504-stock-photo-mumbai-india-december-2020-unidentified.jpg","description":"Cricket is a bat-and-ball game played between two teams of eleven players on a field at the centre of which is a 22-yard (20-metre)", "time":50},
 
 {"id":2,"name":"Football Academy","age":10,"img":"https://media.istockphoto.com/id/1248741443/photo/soccer-training-warm-up-and-slalom-drills-boys-practicing-european-soccer-on-the-grass-school.jpg?s=612x612&w=0&k=20&c=sk4u_FhfjOL_iDKl3AXf56K1Us2Rdu21vD-zPKhg9fM=","time":30,"description":"football, also called association football or soccer, game in which two teams of 11 players, using any part of their bodies except their hands and arms."},
 
@@ -8,4 +8,4 @@
 
 {"id":4,"name":"Hocky Sporting Club","age":12,"img":"https://thecoachessite.com/wp-content/uploads/2019/10/canada-hockey-kids.jpg","description":"In the 1970s, international women's football tournaments were extremely popular, and the oldest surviving continental championship was founded,","time":30},
 
-{"id":5,"name":"Women Football Practice","age":-2,"img":"https://prod-media-eng.dhakatribune.com/uploads/2018/08/practice-session-at-bhutan-football-academy-turf-4-1534086145858.jpg","description":"In the 1970s, international women's football tournaments were extremely popular, and the oldest surviving.","time":30}]
+{"id":5,"name":"Women Football Practice","age":12,"img":"https://prod-media-eng.dhakatribune.com/uploads/2018/08/practice-session-at-bhutan-football-academy-turf-4-1534086145858.jpg","description":"In the 1970s, international women's football tournaments were extremely popular, and the oldest surviving.","time":30}]
